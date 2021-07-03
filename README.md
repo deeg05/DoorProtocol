@@ -6,4 +6,4 @@ Server - accepts packets in "open"/"close" + name of the door format (openmaindo
 Client sends those packets
 
 ## Implementations
-(dplib)[https://github.com/deeg05/dplib] - DoorProtocol reference implementation
+[dplib][https://github.com/deeg05/dplib] - DoorProtocol reference implementation
